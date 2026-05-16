@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import json; nb = json.load\\(open\\('/Users/adeliya/Desktop/freedom-hackaton-git/freedom-hackathon/EDA.ipynb'\\)\\); print\\(f'Valid notebook: {len\\(nb[\\\\\"cells\\\\\"]\\)} cells'\\)\")"
+    ]
+  }
+}
